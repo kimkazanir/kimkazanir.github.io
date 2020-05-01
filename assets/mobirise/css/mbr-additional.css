@@ -1091,42 +1091,6 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rXIBg4CkqQ {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rXIBg4CkqQ .counter-container {
-  color: #767676;
-}
-.cid-rXIBg4CkqQ .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-rXIBg4CkqQ .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-rXIBg4CkqQ .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-rXIBg4CkqQ .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-}
 .cid-rXIBCR2QVT {
   padding-top: 90px;
   padding-bottom: 90px;
